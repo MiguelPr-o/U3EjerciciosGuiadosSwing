@@ -20,8 +20,7 @@ Descripción teórica del concepto de árboles como estructura de datos fundamen
 
 ---
 
-## 🧮 Actividad - Concepto de arboles
-Descripción teórica del concepto de conjuntos como estructura de datos fundamental.
+## 🧮 Actividad - Concepto de conjuntos
 
 | Tipo         | Enlace                                                                                                            |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
