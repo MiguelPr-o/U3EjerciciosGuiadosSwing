@@ -11,7 +11,7 @@ Actividades prácticas desarrolladas durante la Unidad 3 de la materia de Estruc
 
 ---
 
-## 🧮 Actividad - Concepto de arboles
+## 🧮 Actividad - Concepto de arboles (nearpod)
 Descripción teórica del concepto de árboles como estructura de datos fundamental.
 
 | Tipo         | Enlace                                                                                                            |
